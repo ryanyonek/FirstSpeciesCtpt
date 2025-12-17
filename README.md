@@ -4,7 +4,7 @@ Junior Indendent Study
 
 The College of Wooster
 
-Algorithmic Composition of Two-Part First Species Counterpoint
+[Algorithmic Composition of Two-Part First Species Counterpoint](/JuniorIS/Junior_I_S____Ryan_Yonek.pdf)
 
 Generating First Species Counterpoint using Recurrent Neural Networks (RNNs) in Magenta/TensorFlow.js
 
